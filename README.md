@@ -1,5 +1,3 @@
-# powershell
-
 # NOSTERIIHI PowerShell automation
 
 ## ✍🏽 Outline
