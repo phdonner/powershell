@@ -71,7 +71,7 @@ This variation is useful in a configuration equipped with a VT100 console. This 
 The conversion can be fine-tuned with a related PowerShell command `Set-MarkdownOption` which sets the color and style used for rendering Markdown text:
 
 ```PowerShell
-    Set-MarkdownOption
+Set-MarkdownOption
 ```
 
 The command also supports two themes. Try out the two predefined color sets, which are called  `Dark` and `Light`. Like this:
